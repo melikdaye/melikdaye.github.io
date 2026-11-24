@@ -1,10 +1,10 @@
 {
-  "versionCode": 25,
-  "version": "1.24",
+  "versionCode": 26,
+  "version": "1.25",
   "major": true,
   "notes": [
-    "Canlı TV'de direksiyondaki ileri/geri tuşlarıyla kanal değiştir",
-    "Videolarda direksiyondan 10 saniye ileri/geri sar, ses düğmesine basınca durdur",
-    "Yeni sürümler artık bildirimle haber veriliyor"
+    "Menüde yeni \"Devam et\": son izlediğin video kaldığın saniyeden, Canlı TV'de son kanal açılır",
+    "Direksiyondaki ses düğmesine ikinci basışta video yeniden oynar",
+    "Ayarlarını yedekle ve yeni telefona geri yükle; şifreler istersen parolayla şifreli"
   ]
 }
