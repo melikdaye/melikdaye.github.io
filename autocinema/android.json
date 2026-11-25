@@ -1,10 +1,11 @@
 {
-  "versionCode": 26,
-  "version": "1.25",
+  "versionCode": 27,
+  "version": "1.26",
   "major": true,
   "notes": [
-    "Menüde yeni \"Devam et\": son izlediğin video kaldığın saniyeden, Canlı TV'de son kanal açılır",
-    "Direksiyondaki ses düğmesine ikinci basışta video yeniden oynar",
-    "Ayarlarını yedekle ve yeni telefona geri yükle; şifreler istersen parolayla şifreli"
+    "Videolarım: telefondaki videoları araçta doğrudan izle, kaldığın yerden devam",
+    "Paylaş → Araçta aç: YouTube ve siteler araç ekranında açılır",
+    "Kumanda: telefondan oynat/durdur, kanal değiştir, sitelerde imleç ve klavye",
+    "Hatalar giderildi"
   ]
 }
