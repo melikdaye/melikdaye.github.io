@@ -1,11 +1,11 @@
 {
-  "versionCode": 27,
-  "version": "1.26",
+  "versionCode": 28,
+  "version": "1.27",
   "major": true,
   "notes": [
-    "Videolarım: telefondaki videoları araçta doğrudan izle, kaldığın yerden devam",
-    "Paylaş → Araçta aç: YouTube ve siteler araç ekranında açılır",
-    "Kumanda: telefondan oynat/durdur, kanal değiştir, sitelerde imleç ve klavye",
+    "Kumanda'ya Geri ve Menü eklendi, yeni görünüm",
+    "Ana ekran widget'ları: tam kumanda (Touchpad ve Klavye) ve küçük kumanda",
+    "Yeni sürüm uyarısı artık güvenilir, araçta da haber verilir",
     "Hatalar giderildi"
   ]
 }
